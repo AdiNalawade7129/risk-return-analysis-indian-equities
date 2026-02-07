@@ -88,3 +88,7 @@ These results indicate that high-quality businesses can generate superior long-t
 ## 📌 Conclusion
 This project illustrates the importance of evaluating investments through a multi-dimensional lens that includes returns, risk, and downside exposure. Such an approach is applicable not only to equity investing but also to broader business and managerial decision-making contexts.
 
+⚠️ This project is shared for learning and portfolio purposes.  
+Please do not present this work as your own in interviews or evaluations.
+
+
