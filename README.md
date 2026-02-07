@@ -49,6 +49,13 @@ The analysis follows a structured, multi-step approach:
 6. **Risk-Adjusted Performance**
    - A simplified Sharpe-like ratio (CAGR / Volatility) was used to assess return efficiency relative to risk.
 
+   ## 📈 Growth of ₹100 Invested (2010–2024)
+
+The chart below compares the normalized growth of ₹100 invested in each selected stock and the NIFTY 50 benchmark, highlighting differences in long-term compounding performance.
+
+![Growth Chart](images/growth_chart.png)
+
+
 ---
 
 ## 📈 Key Insights
